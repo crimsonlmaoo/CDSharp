@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dwood\\source\\repos\\CD#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B9150A-B4E5-46D4-853A-9F5A15F0CBB9}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\dwood\\source\\repos\\cd#\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B9150A-B4E5-46D4-853A-9F5A15F0CBB9}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E328766-8C2F-456E-ABCE-B2A6FD875B2A}|CD#\\CD#.csproj|c:\\users\\dwood\\source\\repos\\cd#\\cd#\\examples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E328766-8C2F-456E-ABCE-B2A6FD875B2A}|CD#\\CD#.csproj|solutionrelative:cd#\\examples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E328766-8C2F-456E-ABCE-B2A6FD875B2A}|CD#\\CD#.csproj|c:\\users\\dwood\\source\\repos\\cd#\\cd#\\cdsharp\\yesno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E328766-8C2F-456E-ABCE-B2A6FD875B2A}|CD#\\CD#.csproj|solutionrelative:cd#\\cdsharp\\yesno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dwood\\source\\repos\\CD#\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\dwood\\source\\repos\\CD#\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwDoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T20:03:38.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "YesNo.cs",
+              "DocumentMoniker": "C:\\Users\\dwood\\source\\repos\\CD#\\CD#\\CDSharp\\YesNo.cs",
+              "RelativeDocumentMoniker": "CD#\\CDSharp\\YesNo.cs",
+              "ToolTip": "C:\\Users\\dwood\\source\\repos\\CD#\\CD#\\CDSharp\\YesNo.cs",
+              "RelativeToolTip": "CD#\\CDSharp\\YesNo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T20:02:06.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Examples.cs",
+              "DocumentMoniker": "C:\\Users\\dwood\\source\\repos\\CD#\\CD#\\Examples.cs",
+              "RelativeDocumentMoniker": "CD#\\Examples.cs",
+              "ToolTip": "C:\\Users\\dwood\\source\\repos\\CD#\\CD#\\Examples.cs",
+              "RelativeToolTip": "CD#\\Examples.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T19:31:08.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
